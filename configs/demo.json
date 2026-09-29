@@ -1,0 +1,28 @@
+{
+  "active": true,
+  "domains": [
+    "tf-widgets.com",
+    "*.tf-widgets.com"
+  ],
+  "position": "top",
+  "sticky": false,
+  "showOn": "all",
+  "animation": "rotate",
+  "interval": 5,
+  "speed": 60,
+  "messages": [
+    { "text": "Free shipping on all orders over $50", "linkText": "Shop now", "url": "https://tf-widgets.com/collections/all" },
+    { "text": "New collection is here: handmade, small batches", "linkText": "See what's new", "url": "https://tf-widgets.com/collections/all" }
+  ],
+  "newTab": false,
+  "buttonStyle": "button",
+  "countdown": { "enabled": false, "endsAt": "", "label": "Ends in", "hideAfterEnd": true },
+  "closable": true,
+  "closeDays": 1,
+  "style": {
+    "fontFamily": "'Inter', system-ui, -apple-system, 'Segoe UI', sans-serif",
+    "colors": { "background": "#111111", "text": "#ffffff", "buttonBackground": "#25d366", "buttonText": "#052e16" },
+    "sizes": { "fontSize": 14, "height": 44, "buttonRadius": 999, "fontWeight": 600 },
+    "shadow": "none"
+  }
+}
